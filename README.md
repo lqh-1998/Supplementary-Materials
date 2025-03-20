@@ -1,2 +1,2 @@
 # Supplementary-Materials
-Supplementary materials
+Supplementary materials of LGS-Net
